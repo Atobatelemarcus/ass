@@ -664,5 +664,12 @@ footer,.footer1{
 #testname{
   font-size: 12px;
 }
+  .footerhead{
+  display: flex;
+  flex-direction:column;
+  justify-content: space-evenly;
+  gap: 8px;
+}
   
 }
+
