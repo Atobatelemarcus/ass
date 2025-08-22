@@ -331,6 +331,7 @@ animation:slideIn 3s ease;
 }
 .thirdtxt{
   font-size: 16px;
+  margin:2px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align:justify;
 }
@@ -515,6 +516,12 @@ footer,.footer1{
   background-color: rgb(226, 224, 224);
   overflow-x: hidden;
 }
+.footerhead{
+  display: flex;
+  flex-direction:column;
+  justify-content: space-evenly;
+  gap: 8px;
+}
 
 
 
@@ -672,4 +679,5 @@ footer,.footer1{
 }
   
 }
+
 
